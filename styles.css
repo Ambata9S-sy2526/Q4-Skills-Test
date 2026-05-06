@@ -1,0 +1,30 @@
+.sidebar {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 20px;
+}
+
+#main {
+  margin-left: 200px;
+  padding: 20px;
+}
+
+#vns{
+  margin-right: 200px;
+  padding: 20px;
+}
+
+h1 {
+  border: 2px solid lightblue;
+  border-radius: 5px;
+  border-width: 5px;
+}
+
+.card{
+  box-shadow: 0px 12px 9px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 12px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 12px 9px 0px rgba(0,0,0,0.75);
+}
